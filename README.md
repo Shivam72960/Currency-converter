@@ -17,3 +17,6 @@ It not only converts currencies in real time but also provides historical trends
 📋 Copy to Clipboard (Optional) – Easily copy converted values.
 
 🎨 Modern UI – Styled with Tkinter & ttk for a
+
+# Example 
+<img width="1906" height="1003" alt="image" src="https://github.com/user-attachments/assets/a788e759-08a6-48d6-a902-af9ad5df8ab0" />
